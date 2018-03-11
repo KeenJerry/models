@@ -1,0 +1,33 @@
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert10SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 0.29 0.29 0.29
+Ni 1.00
+newmtl lambert16SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert17SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+bump transport_ship_normalmap.png -bm 1
+Ni 1.00
+newmtl phong8SG
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.18 0.18 0.18
+Tf 0.79 0.79 0.79
+Ni 1.00
+Ks 0.38 0.38 0.38
+Ns 18.00
